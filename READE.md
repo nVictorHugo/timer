@@ -1,1 +1,1 @@
-# Timer =)
+# Exemplo de contador
